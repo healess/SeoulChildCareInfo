@@ -1,5 +1,7 @@
 # SeoulChildCareInfo #
-Developed on August 2012 for Seoul City (Free)
+- Developed on August 2012 for Seoul City 
+- Support by below iPhone 4S, 4, 3GS...
+- IDE is XCode 4.x
 
 ##서울시어린이집어플은 기본적으로 서울특별시보육시설공유서 비스(API)의 6가지 API를 사용하여 구현하였습니다. ##
 - <사용API목록> 
