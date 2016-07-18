@@ -13,3 +13,6 @@
 - 보육시설항목상세조회 API
 
 ![Description](https://github.com/healess/SeoulChildCareInfo/blob/master/SeoulChildInfoService/images/DeveloperInfo_bg%402x.png)
+
+## License ##
+- MIT License
